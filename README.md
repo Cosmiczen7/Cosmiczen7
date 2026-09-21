@@ -1,7 +1,7 @@
 ### Hello! I'm Aishwarya.
 I'm a person who enjoys tinkering with code, tech and electronics!
 I'm a 3rd year university student, majoring in Physics and Electronics.
-<img src="https://raw.githubusercontent.com/andrei-pavel/gh-profile-readme-generator/main/assets/line.png" width="100%" height="1" />
+---
 #### Technologies and topics I'm currently focusing on!
 - Machine Learning and Artificial Intelligence
 - Data Structures and algorithms
