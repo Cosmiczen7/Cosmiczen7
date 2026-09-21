@@ -24,7 +24,9 @@ I'm a 3rd year university student, majoring in Physics and Electronics.
 You can contact me on:
 - Personal Email: cosmiczenith7@gmail.com
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Cosmiczen7&theme=transparent&hide_border=true&card_width=350&card_height=100&hide_current_streak=true)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Cosmiczen7&theme=transparent&border_radius=3.5&hide_current_streak=true" alt="GitHub Streak" /></a>
+</p>
 <!--
 **Cosmiczen7/Cosmiczen7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
