@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=Cosmiczen7&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Cosmiczen7&theme=transparent&hide_border=true&card_width=445&card_height=145)](https://git.io/streak-stats)
 <!--
 **Cosmiczen7/Cosmiczen7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
