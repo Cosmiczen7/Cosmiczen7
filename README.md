@@ -2,7 +2,7 @@
 
 I'm a person who enjoys tinkering with code, tech and electronics!
 I'm a 3rd year university student, majoring in Physics and Electronics.
----
+<br/>
 #### Technologies and topics I'm currently focusing on!
 - Machine Learning and Artificial Intelligence
 - Data Structures and algorithms
