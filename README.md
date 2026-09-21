@@ -1,11 +1,15 @@
 ## Hello! I'm Aishwarya.
 I'm a person who enjoys tinkering with code, tech and electronics!
 I'm a 3rd year university student, majoring in Physics and Electronics.
-<hr/>
-# Technologies and topics I'm currently focusing on!
+
+---
+
+### Technologies and topics I'm currently focusing on!
 - Machine Learning and Artificial Intelligence
 - Data Structures and algorithms
-<hr/>
+
+---
+
 ### I've worked with!
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -13,11 +17,12 @@ I'm a 3rd year university student, majoring in Physics and Electronics.
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
-<hr/>
+
+---
+
 ### Contact Information:
 You can contact me on:
 - Personal Email: cosmiczenith7@gmail.com
-<hr/>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Cosmiczen7&theme=transparent&hide_border=true&card_width=350&card_height=100&hide_current_streak=true)](https://git.io/streak-stats)
